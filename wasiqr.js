@@ -73,18 +73,17 @@ router.get('/', async (req, res) => {
  [https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F] 
 
 ᴊᴏɪɴ ʙᴇʟᴛᴀʜ xʙᴏᴛ ɢʀᴏᴜᴘ ᴄʜᴀᴛ 💦
-[ https://chat.whatsapp.com/KDDCSC0xdIz6hiTxVFLvXg ] 
+[ https://chat.whatsapp.com/F9eGks0Pnw7JJrozICzBo4 ] 
 
 ᴊᴏɪɴ ᴏᴜʀ ᴜɴʟɪᴍɪᴛᴇᴅ ᴠᴘɴ sᴇʀᴠɪᴄᴇ ɢʀᴏᴜᴘ 🛜
-[ https://chat.whatsapp.com/JIQos2sUdGyII4qsig72pK ] 
+[ https://chat.whatsapp.com/E6is3oN7RdEDl7OiA3b0S3 ] 
 
 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴏᴡɴᴇʀ ғᴏʀ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ🧑‍💻
  [ https://wa.link/8q7p86 ] 
 
 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀᴄᴄᴏᴜɴᴛ, ᴛᴀᴘ ᴛʜɪs ʟɪɴᴋ 
- [ https://github.com/Beltah254/X-BOT ] 
+ [ https://x-bot-fork-cheacker.vercel.app ] 
  
-
 > 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐁𝐄𝐋𝐓𝐀𝐇 𝐇𝐀𝐂𝐊𝐈𝐍𝐆 𝐓𝐄𝐀𝐌 👻`
 	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id,{text:WASI_MD_TEXT},{quoted:session})
 
